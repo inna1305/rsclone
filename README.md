@@ -18,7 +18,7 @@ This web application provides users with a convenient way to browse movies and T
 
 The project is developed using the following technologies:
 
-- **React.js:** The core library for building the user interface.
+- **Typescript** 
 
 - **Webpack:** A powerful tool for bundling and managing project dependencies.
 
